@@ -1,0 +1,23 @@
+body{
+background: black;
+font-family: sans-serif, Arial;
+}
+h1{
+color:Orange;
+font-weight: bold;
+}
+.operator{
+background: red;
+color:aquamarine;
+border-radius: 9px;
+border:black solid 2px;
+}
+#calculator{
+background:grey;
+border:2px solid black;
+width:200px;
+height:300px;
+}
+#Container{
+border:rgb(255, 0, 0) 1px;
+}
