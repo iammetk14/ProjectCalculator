@@ -1,5 +1,5 @@
 body{
-background: black;
+background: rgb(218, 218, 41);
 font-family: sans-serif, Arial;
 }
 h1{
@@ -9,15 +9,29 @@ font-weight: bold;
 .operator{
 background: red;
 color:aquamarine;
-border-radius: 9px;
+border-radius: 20px;
 border:black solid 2px;
+
 }
 #calculator{
 background:grey;
-border:2px solid black;
+border:2px solid yellow;
 width:200px;
 height:300px;
+font-family: sans-serif;
 }
 #Container{
 border:rgb(255, 0, 0) 1px;
+font-family: sans-serif, Arial;
+border:solid white 1px;
+border-radius: 5px;
+background:rgb(222, 222, 222)
+}
+.number{
+background-color: grey;
+color:white;
+border:red 2px solid;
+border-radius:3px;
+margin:2px;
+padding:5px;
 }
